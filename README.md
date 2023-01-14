@@ -1,92 +1,165 @@
-# CV
+# CV for Freelancing projects
 
+## Backend Developer / Data Sccientist 5 years expierence
 
+Felix Morillas Navas [linkin](https://www.linkedin.com/in/felix-morillas-navas-323107153/)
 
-## Getting started
+![Alt text](images\1663055899048.jpg "personal photo")
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+Bachelor of Science
+Hochschule Mannheim
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Mathematics undergraduate
 
-## Add your files
+Languages: German, English, Spanish
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+----------
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/sky2107/cv.git
-git branch -M main
-git push -uf origin main
-```
+### Kerberry GmbH - Director/CEO/Software Developer (5/2022 - Present)
 
-## Integrate with your tools
+- Developed a CMS system with integration of identity server and payment service.
+- Created a mobile application using Flutter and a backend system using TypeScript.
+- Implemented automated CI/CD pipeline for building and deploying services as Docker images.
+- Developed an API with a pub/sub system for user management, picture upload/download, and email notifications.
 
-- [ ] [Set up project integrations](https://gitlab.com/sky2107/cv/-/settings/integrations)
+### Software Developer & Data Scientist at Camao Tec (2/2022 - Present)
 
-## Collaborate with your team
+- Developed backend systems using Python, C# and Typescript
+- Worked as a data scientist, focusing on classification using transformer models
+- Created an API with authentication using Identity Server and a Pub/Sub system in Python
+- Developed a CMS system for managing and organizing data
+- Utilized MLOps frameworks, such as MLflow and LakeFS, to improve the efficiency and scalability of machine learning models
+- Experience in creating integration and unit tests for C#, Python, and Typescript
+- Experience in implementing CD/CI pipelines and automatic deployment on Azure and GitLab.
+- Worked with machine learning libraries such as scikit-learn, PyTorch, and TensorFlow for building and training models for POC for customers.
+- Experience with containerization technologies such as Kubernetes and Docker
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+### Software Developer - Machine Learning at SUSI & James GmbH (11/2019 - 1/2022)
 
-## Test and Deploy
+- Designed and developed software components for digital voice assistants and process automation
+- Implemented, optimized, and expanded individual logic units
+- Created interfaces and integrated external interfaces
+- Implemented and customized user interfaces
+- Analyzed and modeled processes for text classification and recommender systems
+- Conducted ML activities, including researching and implementing theories and concepts for text and image classification
+- Implemented agile development methods using SCRUM
+- Administered and maintained software repositories using Gitlab
 
-Use the built-in continuous integration in GitLab.
+### Intern - Artificial Intelligence at SUSI & James GmbH (01/2019 - 10/2019)
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+- Programming with PHP and MYSQL, CSS, Javascript, and HTML
+- Automated CPA processes
+- Conducted research
 
-***
+## Intern - Software Engineering at WorkflowApp GmbH (07/2018 - 12/2018)
 
-# Editing this README
+- Programmed with Python, CSS, Javascript (NodeJS, React, Redux)
+- Developed a job application platform
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+## Part-time at Navas Agentur (10/1999 - 2022)
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+- Sales of machinery and collaboration with international companies
 
-## Name
-Choose a self-explaining name for your project.
+----------
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+## EDUCATION
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+###  10/2015 - 08/2019 Hochschule Mannheim
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Degree: Bachelor of Science in Computer Science
+Specialization: Machine Learning and Artificial Intelligence
+Bachelor's thesis: "Selection of Machine Learning Approaches for the Processing of Screenshots Taking into Account the Amount of Data, Effort and Runtime"
+Grade: 2.4
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+###  10/2014 - 08/2015 University of Heidelberg
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+Basic studies in Mathematics undergraduate
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+###  09/2011 - 06/2014 Abendakademie, Mannheim
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+High School Diploma (Abitur)
+Grade: 2.0
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+### 09/1994 - 06/1998 Tulla-Realschule, Mannheim
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+Intermediate School Diploma (Mittlere Reife)
+Grade: 1.5
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+----------
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+## IT SKILLS
 
-## License
-For open source projects, say how it is licensed.
+Programming languages: Python, JavaScript + nodeJS, PHP, Java, C++, C#, TypeScript
+Machine Learning: Pytorch, Tensorflow, Fastai, Scikit-learn, Spacy, Huggingface, Pandas, Numpy
+Computer Vision: OpenCV, OCR Tesseract, Pillow
+Web Design/Development: HTML5, CSS3, Bootstrap
+Frameworks: Flask, FastAPI, Express, React, Redux
+Database Systems: MySQL, MongoDB, Redis, Postgres, ClickHouse, Data Lake
+Containerization: Docker & Docker Compose
+Continuous Integration: Jenkins, Gitlab (Runner)
+Agile Methodologies: Scrum, Kanban, XP Techniques
+Patterns: TDD, DDD
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+## PROFESSIONAL SUMMARY
+
+A highly skilled and experienced software developer with a strong background in machine learning and computer vision. Proficient in a variety of programming languages including Python, JavaScript, PHP, Java, C++, C#, and TypeScript. Strong understanding of machine learning frameworks such as Pytorch, Tensorflow, Fastai, and Scikit-learn. Experience with computer vision libraries such as OpenCV, OCR Tesseract, and Pillow. Skilled in web design and development using HTML5, CSS3, and Bootstrap. Proficient in using frameworks like Flask, FastAPI, Express, React, and Redux. Experience with database systems like MySQL, MongoDB, Redis, Postgres, ClickHouse, and Data Lake. Adept in containerization using Docker and Docker Compose, and familiar with MLOPS tools like MLFLOW and LakeFS. Proficient in agile methodologies such as Scrum, Kanban, and XP Techniques, and experienced in implementing patterns like TDD and DDD. Proven ability to work independently as a freelancer and deliver high-quality results on time.
+
+### SKILLS
+
+Programming languages: Python, JavaScript/TypeScript + nodeJS, PHP, Java, C++, C#, ,Rust
+Machine Learning: Pytorch, Tensorflow, Fastai, Scikit-learn, Spacy, Huggingface, Pandas, Numpy
+Computer Vision: OpenCV, OCR Tesseract, Pillow
+Web Design/Development: HTML5, CSS3, Bootstrap
+Frameworks: Flask, FastAPI, Express, React, Redux
+Database Systems: MySQL, MongoDB, Redis, Postgres, ClickHouse, Data Lake
+Containerization: Docker & Docker Compose
+Continuous Integration: Jenkins, Gitlab (Runner)
+Agile Methodologies: Scrum, Kanban, XP Techniques
+Patterns: TDD, DDD
+MLOPS: MLFLOW, LakeFS
+EXPERIENCE
+
+## Freelance Software Developer - (06/2021)
+
+Worked on various projects as a freelancer, delivering high-quality results on time.
+Utilized a wide range of programming languages and technologies to deliver solutions that meet client requirements.
+Implemented machine learning and computer vision techniques to improve the functionality and performance of applications.
+Built and deployed applications using agile methodologies, ensuring that they were delivered on time and met the client's expectations.
+Worked with a variety of clients, including startups, small businesses, and large corporations.
+Note: If you have any previous experience you can mention them here and also your achievements and responsibilities
+
+## Last 2 projects with Kerbbery GmbH
+
+1. Project: CMS for Corona Testing Stations (Duration: 8 Months)
+
+The CMS project was developed to manage and organize data for corona testing stations. It included features such as authentication using Identity Server Keycloak and a payment service. The main technology stack used for this project included Python (Fastapi), Swagger API documentation, dependency injection, and testing (pytest). The testing strategy included integration tests, unit tests, mocking of services, and testing the flow of the program. A CI/CD pipeline was also implemented using Gitlab, and databases were managed using Postgres and SQLLite. The project was hosted on a Hetzner server due to German laws surrounding sensitive and personal data, and a firewall and load balancer were used for added security. The Scrum process was used for agile development.
+
+Some of the challenges faced during the project included understanding dependency injection and using sqlalchemy, and the documentation for the project was poor. The biggest issue encountered was with the implementation of the Keycloak authorization system, which was added after the system had already been developed.
+
+If the project were to be started again from scratch, some improvements that could be made include:
+
+- Increasing test coverage and conducting stress tests
+- Using an image registry and versioning system, such as Gitlab
+- Implementing monitoring in the production environment
+- Utilizing Kubernetes and containerization technologies
+- Improving the refactoring process and using merge requests
+- Establishing acceptance criteria for completing tasks
+- Developing a roadmap at the beginning of the project
+- Improving documentation and creating UML diagrams and API diagrams
+- Incorporating a stage for refactoring after each task is completed
+
+Other areas for improvement include:
+
+- Developing a logging strategy to identify and troubleshoot bugs
+- Implementing logging for monitoring in production
+- Logging important values such as performance and workload
+- Gaining expertise in Kubernetes to create deployments with multiple nodes and using Statefulsets for databases
+- Implementing a rollback system in case data is lost.
+- Main Technology Stack: Backend - Python, Docker, Swagger, Keycloak, Postgres, Hetzner (cloud server), Gitlab
+- Software Design Strategies: Repository pattern, OOP style.
+
+2. Project: API Service with PUB/SUB System (Duration: 3 Months)
+
+This project involved developing an API service that utilized a PUB/SUB system using Redis. The service implemented async/await and parallelism using coroutines for handling multiple uploads and downloads of images. A mail server and NoSQL database were also integrated. The project was containerized using Docker and the compose file.
+
+Main Technology Stack: Backend - Python, Docker, Swagger, Mongo, Redis, Hetzner (cloud server), Github
