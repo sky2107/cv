@@ -22,7 +22,7 @@ Languages: German, English, Spanish
 - Implemented automated CI/CD pipeline for building and deploying services as Docker images.
 - Developed an API with a pub/sub system for user management, picture upload/download, and email notifications.
 
-### Software Developer & Data Scientist at Camao Tec (2/2022 - Present)
+### Software Developer & Data Scientist at Camao Tec (2/2021 - Present)
 
 - Developed backend systems using Python, C# and Typescript
 - Worked as a data scientist, focusing on classification using transformer models
