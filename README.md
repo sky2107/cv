@@ -130,7 +130,7 @@ Note: If you have any previous experience you can mention them here and also you
 
 ## Last 2 projects with Kerbbery GmbH
 
-1. Project: CMS for Corona Testing Stations (Duration: 8 Months)
+> Project: CMS for Corona Testing Stations (Duration: 8 Months)
 
 The CMS project was developed to manage and organize data for corona testing stations. It included features such as authentication using Identity Server Keycloak and a payment service. The main technology stack used for this project included Python (Fastapi), Swagger API documentation, dependency injection, and testing (pytest). The testing strategy included integration tests, unit tests, mocking of services, and testing the flow of the program. A CI/CD pipeline was also implemented using Gitlab, and databases were managed using Postgres and SQLLite. The project was hosted on a Hetzner server due to German laws surrounding sensitive and personal data, and a firewall and load balancer were used for added security. The Scrum process was used for agile development.
 
@@ -158,7 +158,9 @@ Other areas for improvement include:
 - Main Technology Stack: Backend - Python, Docker, Swagger, Keycloak, Postgres, Hetzner (cloud server), Gitlab
 - Software Design Strategies: Repository pattern, OOP style.
 
-2. Project: API Service with PUB/SUB System (Duration: 3 Months)
+----------
+
+> Project: API Service with PUB/SUB System (Duration: 3 Months)
 
 This project involved developing an API service that utilized a PUB/SUB system using Redis. The service implemented async/await and parallelism using coroutines for handling multiple uploads and downloads of images. A mail server and NoSQL database were also integrated. The project was containerized using Docker and the compose file.
 
